@@ -41,5 +41,5 @@ This additional project reflects my independent learning and practical explorati
 
 **Vanshita Choudhary**
 
-- GitHub: [vanshitachoudhary](https://github.com/vanshitachoudhary)
-- LinkedIn: [Add Your LinkedIn Profile Link]
+- GitHub: https://github.com/vanshitachoudhary
+- LinkedIn: https://www.linkedin.com/in/vanshita-choudhary-53840435b/
